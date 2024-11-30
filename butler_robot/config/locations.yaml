@@ -1,0 +1,25 @@
+home_position:
+  x: 0.0
+  y: 0.0
+  theta: 0.0
+
+kitchen_position:
+  x: 2.0
+  y: 0.0
+  theta: 0.0
+
+table1_position:
+  x: 4.0
+  y: 1.0
+  theta: 0.0
+
+table2_position:
+  x: 4.0
+  y: 3.0
+  theta: 0.0
+
+table3_position:
+  x: 4.0
+  y: 5.0
+  theta: 0.0
+
