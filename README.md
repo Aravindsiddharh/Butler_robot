@@ -12,4 +12,4 @@ The system has two main components:
     Timeout for each task to handle situations where the robot doesn't reach its destination within the expected time. This can be done by monitoring the elapsed time since sending a goal, and if the goal is not reached within the time     limit, the task manager marks the order as failed and retries.
 
 
-    Test the system in Gazebo for all scenarios listed in the problem statement.
+    T
